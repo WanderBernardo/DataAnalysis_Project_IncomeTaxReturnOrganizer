@@ -1,5 +1,5 @@
 # Income Tax Return Organizer
-Este projeto tem como objetivo criar uma ferramenta no Excel que ajude a organizar e reunir informações essenciais para a declaração de imposto de renda. 
+This project aims to create an Excel tool that helps organize and gather essential information for income tax returns.
 
 The proposal is to build a data aggregator that allows users to manage their entries efficiently and with built-in validation, featuring navigation menus, automated checks, and additional functionalities such as quick links. The solution will be developed entirely within Excel, incorporating features that ensure a robust tool while maintaining a user-friendly and practical interface.
 
