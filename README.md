@@ -10,3 +10,5 @@ The proposal is to build a data aggregator that allows users to manage their ent
 <img width="890" height="461" alt="image" src="https://github.com/user-attachments/assets/7757b78e-40a8-4e82-a39d-dae02688421e" />
 
 
+# Main Page
+ - Data Analysis: https://github.com/WanderBernardo/DataAnalysis.git
